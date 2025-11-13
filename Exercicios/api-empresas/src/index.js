@@ -98,9 +98,14 @@ app.delete('/projetos/:id', async (req, res) => {
   }
 })
 
-// =============================
-// 🚀 INICIANDO SERVIDOR
-// =============================
+
 app.listen(3000, () => {
   console.log('🚀 Aplicação rodando -> http://localhost:3000')
 })
+
+
+
+
+
+
+
